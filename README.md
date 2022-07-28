@@ -1,8 +1,8 @@
 
 
-📚 Graduando em Análise e Desenvolvimento de Sistemas
+| Graduando em Análise e Desenvolvimento de Sistemas
 
-| Linkedin: linkedin.com/in/pamella-barbosa-479a55226
+
 
 ##
 
