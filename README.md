@@ -1,6 +1,7 @@
 
 
 | Graduada em Análise e Desenvolvimento de Sistemas
+
 | Aperfeiçoando e colocando em prática o conhecimento em programação.
 
 
