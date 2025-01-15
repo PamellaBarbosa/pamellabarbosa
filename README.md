@@ -1,7 +1,6 @@
 
 
 
-| Aperfeiçoando e colocando em prática o conhecimento em programação.
 
 
 ##
