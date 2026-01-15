@@ -1,5 +1,5 @@
 
-
+<div style="display: center"><br>
  
 
   <img align = "center" alt = "Pamella-JS" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
